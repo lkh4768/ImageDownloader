@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageDownloader</string>
+    <string name="load">불러오기</string>
+</resources>
